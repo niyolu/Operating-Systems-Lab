@@ -1,6 +1,5 @@
 #!/bin/bash
 #bash script that analyses a git checkout
-#by Nils Luebben
 
 
 #help-message
